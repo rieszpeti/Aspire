@@ -12,8 +12,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\SomeWebapi1\SomeWebapi1\SomeWebapi1.csproj" />
-    <ProjectReference Include="..\Aspire.ApiService\Aspire.ApiService.csproj" />
+	<ProjectReference Include="$(SomeWebApiPath)\SomeWebapi1.csproj" />
+	<ProjectReference Include="..\Aspire.ApiService\Aspire.ApiService.csproj" />
     <ProjectReference Include="..\Aspire.Web\Aspire.Web.csproj" />
   </ItemGroup>
 

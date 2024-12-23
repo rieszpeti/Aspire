@@ -1,0 +1,5 @@
+<Project>
+  <PropertyGroup>
+    <SomeWebApiPath>..\..\SomeWebapi1\SomeWebapi1</SomeWebApiPath>
+  </PropertyGroup>
+</Project>
